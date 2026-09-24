@@ -64,12 +64,3 @@
 | [**DockerProject**](https://github.com/aliquli07/DockerProject) | Containerized .NET application | ASP.NET Core, Docker |
 | [**Django-final-**](https://github.com/aliquli07/Django-final-) | Final Django web application | Django, Python |
 | [**ReactNativePractise**](https://github.com/aliquli07/ReactNativePractise) | Cross-platform mobile app | React Native, Expo, TypeScript |
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aliquli07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliquli07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
